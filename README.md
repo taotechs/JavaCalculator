@@ -1,2 +1,2 @@
 # JavaCalculator
- a calculator created using Java GUI
+ a very basic calculator created using Java GUI
